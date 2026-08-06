@@ -33,7 +33,7 @@ git clone https://github.com/ocp-hm-openbmc-opf-ami/Aptio_CE_MU_Genoa_openSIL.gi
    python -m venv <virtual_env_path>
    ```
 
-3. Activate the virutal environment
+3. Activate the virtual environment
    - Windows: 
      ```
      <virtual_env_path>\Scripts\activate
@@ -95,7 +95,7 @@ The followings are the submodules of this project:
 
 # Validation
 
-- Installed and booted to Ubuntu 22.02 using M2 NVME
+- Installed and booted to Ubuntu 22.04 using M2 NVME
 - Installed and booted to Windows Server 2022 using M2 NVME
 
 # Firmware Upgrade
